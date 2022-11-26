@@ -1,0 +1,31 @@
+body {
+    background-image: url("kakashi.png");
+    text-align: center;
+}
+
+.images {
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    border-radius: 20px;
+    border: 3px rgb(109, 167, 188) dashed;
+    margin-top: 30px;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    color: rgb(173, 217, 233);
+}
+
+h3{
+    font-family: 'Comfortaa', cursive; 
+    color: rgb(48, 91, 28);
+    
+}
+
+#backButton{
+    font-family: 'Comfortaa', cursive; 
+    color: rgb(48, 91, 28);
+    background-color: rgb(173, 179, 179);
+    margin-left: 1220px;
+}
